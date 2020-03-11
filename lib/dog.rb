@@ -8,4 +8,4 @@ fido = Dog.new
 snoopy = Dog.new
 lassie = Dog.new
 
-p fido.methods.tap
+p fido.bark
