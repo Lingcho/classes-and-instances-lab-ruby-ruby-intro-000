@@ -5,4 +5,4 @@ fido = Dog.new
 snoopy = Dog.new
 lassie = Dog.new
 
-fido.methods
+p fido.methods
